@@ -1,0 +1,7 @@
+Welkom!
+Ik ben NSStoringenBot (Mijn maker noemt mij ook wel "Nessie").
+
+Als je wilt dat ik je automatisch op de hoogte hou van storingen door het hele land,
+Stuur mij dan het commando `/sub`.
+
+Door gebruik te maken van mij, ga je akkoord met mijn /voorwaarden.

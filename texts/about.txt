@@ -1,0 +1,15 @@
+<b>Wat is NSStoringenBot?</b>
+NSStoringenBot is robot voor Telegram die aangeeft of er problemen zijn rondom het opgrvraagde station.
+
+
+<b>Achtergrond Verhaal</b>
+NSStoringenBot is die ik heb gebouwd om storingen te zien.
+Ik reis zelf enorm veel met de trein om bij mijn werk te komen.
+Hierdoor heb ik soms een storing.
+Aangezien mijn smartphone weinig opslag ruimte heeft probeer ik zo weinig mogelijk apps te installeren.
+Hier valt helaas ook <a href="https://play.google.com/store/apps/details?id=nl.ns.android.activity">NS Reisplanner App</a> onder
+Om te zorgen dat ik toch kan zien of er een storing is (buiten alle meldingen op de borden en alle omroepen) heb ik deze bot gemaakt.
+
+Hij heeft een hele tijd gedraait tot in Oktober 2016 de broncode verloren ging.
+Op 29 Januari 2017 besloot ik hem dan toch opnieuw te maken.
+Dit keer met mijn nieuw vergaarde kennis!

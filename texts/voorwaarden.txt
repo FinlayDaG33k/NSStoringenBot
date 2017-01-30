@@ -1,0 +1,10 @@
+Door het gebruiken van deze bot ga je akkoord met de volgende woorwaarden:
+		- Er zijn geen garanties op de nauwkeurigheid van de bot. Het opvolgen van het advies is dus op eigen risico.
+		- De volgende informatie zal worden opgeslagen:
+				- Commando's
+				- Uw Gebruikersnaam
+				- Uw Chat ID
+		- Uw gegevens zullen onder geen voorwaarden worden gedeelt met derden, tenzij er expliciet om toestemming is gevraagt.
+		- Deze bot word niet ondersteund door de NS.
+		- Bij vragen kunt u <a href="https://www.finlaydag33k.nl/contact/">contact opnemen met de maker van deze bot</a>.
+		- De voorwaarden mogen ten alle tijden worden aangepast.

@@ -1,0 +1,6 @@
+/check - Zoek storingen rondom een Station
+/help - Laat dit hulp dialoog zien
+/ping - pong (Gemaakt voor tests)
+/start - Laat het welkomst bericht zien
+/sub - Meld je aan om op de hoogte gehouden te worden voor storingen.
+/unsub - Meld je af om op de hoogte gehouden te worden voor storingen
